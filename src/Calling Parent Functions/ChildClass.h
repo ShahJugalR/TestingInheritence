@@ -12,7 +12,7 @@ namespace ShahJugalR {
 
 	public:
 
-		void Function() override;
+		void Function();
 
 	};
 
