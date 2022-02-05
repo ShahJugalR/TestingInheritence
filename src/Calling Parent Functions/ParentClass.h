@@ -11,7 +11,7 @@ namespace ShahJugalR {
 
 	protected:
 
-		virtual void Function() = 0;
+		void Function();
 
 	};
 
